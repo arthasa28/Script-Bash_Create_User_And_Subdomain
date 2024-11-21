@@ -1,6 +1,6 @@
 # Script-Bash_Create_User_And_Subdomain
 
-##Salin Script Ini
+## Salin Script Ini
 
 ```bash
 #!/bin/bash
